@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Guidance for any AI agent (and any new teammate) working across Music Nerd's code. `CLAUDE.md` points here.
+Guidance for any AI agent (and any new teammate) working across Music Nerd's code.
 
 This is a **git submodule workspace**: it holds no code, only pointers to each repository at a commit, plus this
 guide. Each submodule is an independent repository with its own `AGENTS.md`, history, branches and PRs. Read this
