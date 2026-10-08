@@ -1,0 +1,14 @@
+# Allowlist: this folder also holds private work (audits, meetings, designs, other projects, worktrees).
+# Nothing is published unless it is listed below.
+/*
+!/.gitignore
+!/.gitmodules
+!/AGENTS.md
+!/CLAUDE.md
+!/README.md
+!/LICENSE
+!/MusicNerdWeb
+!/MusicNerdAPI
+!/MusicNerdDocs
+!/MusicNerdSkills
+.DS_Store

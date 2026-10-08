@@ -1,0 +1,12 @@
+[submodule "MusicNerdWeb"]
+	path = MusicNerdWeb
+	url = https://github.com/xdjs/MusicNerdWeb.git
+[submodule "MusicNerdAPI"]
+	path = MusicNerdAPI
+	url = https://github.com/xdjs/MusicNerdAPI.git
+[submodule "MusicNerdDocs"]
+	path = MusicNerdDocs
+	url = https://github.com/xdjs/MusicNerdDocs.git
+[submodule "MusicNerdSkills"]
+	path = MusicNerdSkills
+	url = https://github.com/xdjs/MusicNerdSkills.git
